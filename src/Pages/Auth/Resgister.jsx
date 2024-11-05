@@ -66,7 +66,7 @@ const Register = () => {
     <div className="flex h-screen justify-center my-auto mx-auto">
       <div className="w-[1500px] flex flex-col justify-center items-center">
         <div className="text-center items-center flex gap-2">
-          <img src="img/logo.png" alt="Logo" />
+          <img src="img/Logo.png" alt="Logo" />
           <p className="text-2xl font-bold">SIMS PPOB</p>
         </div>
         <p className="text-3xl mt-[20px] w-[400px] text-center font-bold">Lengkapi data untuk membuat akun</p>

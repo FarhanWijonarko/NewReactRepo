@@ -134,7 +134,7 @@ const Topup = () => {
       {open && (
         <div className="flex flex-col gap-2 absolute top-0 left-0 w-full h-full p-5 bg-black bg-opacity-50">
           <div className="flex flex-col w-[300px] absolute top-1/2 left-1/2 -translate-x-1/2 -translate-y-1/2 justify-center items-center gap-2 bg-white p-5 rounded">
-            <img src="img/logo.png" alt="" />
+            <img src="img/Logo.png" alt="" />
             <div className="flex gap-5 items-center justify-center flex-col">
               <h1 className="text-sm">Anda yakin untuk Top Up sebesar</h1>
               <h1 className="text-xl font-bold">Rp {amount} ?</h1>

@@ -13,7 +13,7 @@ const Headers = () => {
   return (
     <div className="flex w-full h-[70px] justify-between items-center px-[150px] border-b">
       <button onClick={() => navigate('/homepage')} className="flex gap-2 p-2 items-center">
-        <img src="img/logo.png" alt="logo" />
+        <img src="img/Logo.png" alt="logo" />
         <h1 className="font-bold">SIMS PPOB</h1>
       </button>
       <div className="flex gap-10 p-2 items-center relative">
